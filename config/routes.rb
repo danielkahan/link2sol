@@ -1,4 +1,6 @@
 Link2sol::Application.routes.draw do
+  get "home/bannerFiestas2011"
+
   get "home/index"
 
   # The priority is based upon order of creation:
